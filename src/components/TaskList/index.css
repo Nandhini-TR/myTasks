@@ -1,0 +1,25 @@
+.task-list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  background-color: #131213;
+  margin: 10px;
+}
+
+.tasks {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.inactive-tag-button {
+  border-radius: 20px;
+  color: #475569;
+  padding: 10px;
+  background-color: #f3aa4e;
+  border: 0px none;
+  text-align: center;
+  font-weight: bold;
+}
